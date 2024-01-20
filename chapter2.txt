@@ -1,1 +1,3 @@
 Its Chapter 2, I want to list some of animals.
+- Shark
+- Cat
