@@ -2,3 +2,4 @@ This is Chapter 1. I want to list some of programming language
 - Nodejs
 - Java
 - Ruby
+- Javascript
